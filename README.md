@@ -1,0 +1,1 @@
+Travello is a website that allows users to explore various travel destinations and make bookings based on their preferences. Users can browse through a range of locations and activities, view detailed information and photos for each listing, and make secure and easy online bookings. Additionally, users can leave reviews and ratings for their experiences.
